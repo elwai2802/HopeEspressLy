@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hope Espress</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Hand-made cosmetics">
+    <link rel="stylesheet" href="./css/style.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Hope</span> Espress</h1>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li class="current"><a href="blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact</a></li>
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="newsletter">
+      <div class="container">
+        <h1>Keep in touch for our upcoming launch</h1>
+        <form>
+          <input type="email" placeholder="Enter Email...">
+          <button type="submit" class="button_1">Keep in touch</button>
+        </form>
+      </div>
+    </section>
+
+    <section id="main">
+      <div class="container">
+        <article id="main-col">
+          <h1 class="page-title">Articles</h1>
+          <ul id="services">
+            <li>
+              <h3>Exfoliate twice a week for smoother skin</h3>
+              <p>Stay smooth this winter using body srubs twice weekly, you'll notice the difference</p>
+						  <p>Related product: Coffee Body Scrub</p>
+            </li>
+            <li>
+              <h3>It's time to get coconut-ty!</h3>
+              <p>Indulge yourself this Christmas with a coconut-ty body lotion</p>
+						  <p>Product related: Coconut Body Lotion</p>
+            </li>
+            <li>
+              <h3>Scrub in a cube</h3>
+              <p>Going on a vacation and still want to have smooth skin? We have came up with a coffee scrub cube that is portable and easy to use</p>
+						  <p>Product related: Coffee Scrub Cube</p>
+            </li>
+          </ul>
+        </article>
+
+        
+      </div>
+    </section>
+
+    <footer>
+      <p>Hope Espress, Copyright &copy; 2017</p>
+    </footer>
+  </body>
+</html>

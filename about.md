@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Hope Espress Story">
+    <title>Hope Espress| Our Story</title>
+    <link rel="stylesheet" href="./css/style.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Hope</span> Espress</h1>
+        </div>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li class="current"><a href="about.html">About</a></li>
+            <li><a href="product.html">Products</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="newsletter">
+      <div class="container">
+        <h1>Keep in touch for our upcoming launch</h1>
+        <form>
+          <input type="email" placeholder="Enter Email...">
+          <button type="submit" class="button_1">Keep in touch</button>
+        </form>
+      </div>
+    </section>
+
+    <section id="main">
+      <div class="container">
+        <article id="main-col">
+          <h1 class="page-title">Our Story</h1>
+          <p>
+            The idea to produce skincare products using coffee ground was born last year. When Jo found out that microbeads used in many cosmetic products are endangering marine wildlife, she realised that coffee ground could be used as an eco-friendly alternative. Recycling coffee ground to make skincare products could potentially tackle the issue of food waste, too. In the UK, tonnes of coffee ground are produced each year. Remarkably, nutrients contained in your coffee remain intact after you finish your cup. And coffee ground is just as great for exfoliating your skin as the microbeads, plus it’s organic and causes no damage to the environment! So, we came up with an idea of a product that was both cost effective and eco-friendly. We decided to make scrubs and scented candles based on coffee ground - a range of skincare goods for true coffee lovers – and called it HopeEspress.
+
+
+          </p>
+          <p class="dark">
+            HopeEspress is a young start up dedicated to sustainability and empowerment. A lot is coming up for us soon! Stay updated by subscribing to our newsletter and keep in touch via social media!
+
+          </p>
+        </article>
+
+        <aside id="sidebar">
+          <div class="dark">
+            <h3>What We Do</h3>
+            <p>The coffee ground we use in our products comes from local coffee shops. We check that all our ingredients are organic and wholesome. We only get coffee ground used to make fair trade coffee. We believe that everyone deserves the access to high quality products. That’s why our goal is to produce hand-made organic skincare products that are affordable to anyone. Our coffee sugar scrub and the candles are just the start. Ideally we are aiming to create a whole bath experience – look out for new products in future!</p>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <footer>
+      <p>Hope Espress, Copyright &copy; 2017</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hope Espress</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="Hand-made cosmetics">
+    <link rel="stylesheet" href="./css/style.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="branding">
+          <h1><span class="highlight">Hope</span> Espress</h1>
+        </div>
+        <nav>
+          <ul>
+            <li class="current"><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="contact.html">Contact</a></li>
+
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <section id="showcase">
+      <div class="container">
+        <h1>Handmade cosmetics</h1>
+        <p>Help single parents in London build a sustainable future with Hope Espress range of handmade cosmetics</p>
+      </div>
+    </section>
+
+    <section id="newsletter">
+      <div class="container">
+        <h1>Keep in touch for our upcoming launch</h1>
+        <form>
+          <input type="email" placeholder="Enter Email...">
+          <button type="submit" class="button_1">Keep in touch</button>
+        </form>
+      </div>
+    </section>
+
+    <section id="boxes">
+      <div class="container">
+        <div class="box">
+          <img src="./img/1.png">
+          <h3>Hand made</h3>
+          <p>Each product is carefully crafted by a local, using locally sourced ingredients</p>
+        </div>
+        <div class="box">
+          <img src="./img/2.png">
+          <h3>Sustainable</h3>
+          <p>We are committed to reducing wasteful coffee grounds and turn this into something beautiful</p>
+        </div>
+        <div class="box">
+          <img src="./img/3.png">
+          <h3>Ethical</h3>
+          <p>Our products help single parents create a sustainable revenue stream while helping reducing waste</p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>Hope Espress, Copyright &copy; 2017</p>
+    </footer>
+  </body>
+</html>
